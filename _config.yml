@@ -1,1 +1,5 @@
-theme: minima
+title: 顾振阳的个人主页
+author: 顾振阳
+description: "复旦大学微电子学院研一学生"
+theme: jekyll-theme-minimal
+
